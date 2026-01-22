@@ -4,8 +4,8 @@
 [![X Follow](https://img.shields.io/twitter/follow/shutterwphotos?style=for-the-badge&logo=x&logoColor=white)](https://x.com/shutterwphotos)
 <br>
 [![Founded](https://img.shields.io/badge/Founded-2025-blue?style=for-the-badge)](https://shutterwingphotos.cn/about)
-[![Users](https://img.shields.io/badge/Registered%20Users-900%2B-green?style=for-the-badge)](https://shutterwingphotos.cn)
-[![Photos](https://img.shields.io/badge/Photos-7000%2B-orange?style=for-the-badge)](https://shutterwingphotos.cn)
+[![Users](https://img.shields.io/badge/Registered%20Users-1000%2B-green?style=for-the-badge)](https://shutterwingphotos.cn)
+[![Photos](https://img.shields.io/badge/Photos-9000%2B-orange?style=for-the-badge)](https://shutterwingphotos.cn)
 <br>
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev)
 [![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62F)](https://vitejs.dev)
